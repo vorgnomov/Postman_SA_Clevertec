@@ -1,2 +1,3 @@
-# Postman_SA_Clevertec_Sakolinskaya
-Домашнее задание №10
+<h1 align="right">Clevertec</h1>
+<div>Домашнее задание №10 Postman<div>
+<div>Выполнила: Саколинская Вероника</div>
